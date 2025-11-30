@@ -1,0 +1,28 @@
+(c) 2025 Guyt6517
+Educational use only. Not for resale without permission.
+
+
+NOTICE:
+Updates were only started 2 months into the project
+
+update 1.0.0 (Released 10/1/25): 
+- added im.py
+- added requirements.txt
+- added updates.txt
+
+update 1.0.1 (Released 10/2/25):
+- added bohr models to pt (formerly IPT)
+- renamed IPT to pt
+
+update 1.0.2 (Released 10/2/25):
+- added bohr models to ions and isotopes
+- accidently made a hydrogen atom with 500 electrons
+
+update 1.0.3 (Released 10/7/25):
+- Added proton / electron / atomic num based searching to pt.py
+- added searching by full name to pt.py 
+- added danger ratings and reason for danger rating to elements in pt.py
+
+update 1.0.4 (Released 10/8/25):
+- Reformatted console print lines for pt.py
+- Added full atomic number and name search to pt.py
